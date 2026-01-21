@@ -1,7 +1,7 @@
 # Fala, irmão! Eu sou o Thiago Ventura (Th) 👨‍💻
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNvNjMxZnR1OWpwMWl4M24xNzlsbHZtdGMwcmJjMWdhc3F5dHkyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 </div>
 
 ### 🚀 Sobre Mim
