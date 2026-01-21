@@ -1,14 +1,14 @@
-# Fala, irmão! Eu sou o Thiago Ventura (Th) 👋👨‍💻
+# Fala, irmão! Eu sou o Thiago Ventura (Th) 👨‍💻
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ### 🚀 Sobre Mim
-Sou estudante de **Desenvolvimento Full Stack** e criador de conteúdo focado em descomplicar a programação. Minha missão é transformar café em código limpo e mostrar que aprender a programar não precisa ser um pesadelo.
+Sou estudante de **ADS** e criador de conteúdo, focado em descomplicar a programação. Minha missão é transformar café em código limpo e mostrar que aprender a programar não precisa ser um pesadelo.
 
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais de Front-end e absorvendo tudo sobre Back-end.
-- 🌱 **Aprendendo:** React, Node.js e como não quebrar a produção na sexta-feira.
+- 🔭 **Atualmente trabalhando em:** Projetos pessoais de Front-end e Back-end.
+- 🌱 **Aprendendo:** React, Node.js, Java e como não quebrar a produção na sexta-feira.
 - 💬 **Pergunte-me sobre:** Lógica de programação, carreira dev e setup.
 - ⚡ **Curiosidade:** Eu acredito que se o código não funciona de primeira, é porque ele está testando sua paciência, não sua lógica. 😂
 
