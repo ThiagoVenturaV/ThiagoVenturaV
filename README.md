@@ -51,7 +51,7 @@ Não adianta ter código se não tem networking, né?
   <a href="https://www.youtube.com/@thdev1" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.linkedin.com/in/thiago-ventura-velez-de-andrade-b85a5437a?" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-ventura-velez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
