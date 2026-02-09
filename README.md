@@ -8,7 +8,7 @@
   
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ThiagoVenturaV&label=Visitantes&labelColor=%23697689&countColor=%23ff8a65)
 ![GitHub followers](https://img.shields.io/github/followers/ThiagoVenturaV?style=social)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxxx?style=social&logo=youtube)](https://youtube.com/@thdev1)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxxx?style=social&logo=youtube)](https://www.youtube.com/@ThVenturaDev)]
 
 </div>
 
@@ -17,7 +17,7 @@
 ### 🚀 Sobre Mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📹 Criador de conteúdo no [YouTube](https://youtube.com/@thdev1) - Descomplicando programação  
+📹 Criador de conteúdo no [YouTube](https://www.youtube.com/@ThVenturaDev) - Descomplicando programação  
 💼 Foco em **desenvolvimento Full Stack**  
 🎯 Missão: Transformar café em código limpo ☕➡️💻
 
@@ -83,7 +83,7 @@
 
 Compartilho conhecimento sobre programação, carreira dev e muito mais!
 
-<a href="https://youtube.com/@thdev1?sub_confirmation=1">
+<a href="https://youtube.com/@ThVenturaDev?sub_confirmation=1">
   <img src="https://img.shields.io/badge/INSCREVA--SE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se no YouTube" />
 </a>
 
@@ -112,7 +112,7 @@ Compartilho conhecimento sobre programação, carreira dev e muito mais!
   <a href="https://instagram.com/th.dev1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/@thdev1" target="_blank">
+  <a href="https://www.youtube.com/@ThVenturaDev" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/thiago-ventura-velez" target="_blank">
