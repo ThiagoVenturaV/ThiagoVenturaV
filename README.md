@@ -187,7 +187,7 @@ Compartilho conhecimento sobre programação, carreira dev e muito mais!
   <a href="https://www.linkedin.com/in/thiago-ventura-velez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://portfoliothiagoventura.vercel.app" target="_blank">
+  <a href="https://thiago-ventura-portifolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-BD93F9?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:thiago2013ventura@gmail.com" target="_blank">
