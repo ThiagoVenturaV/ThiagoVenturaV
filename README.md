@@ -84,9 +84,9 @@ class ThiagoVentura:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=esportesdasorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportesdasorte)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=ThiagoVenturaPortifolio&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/ThiagoVenturaPortifolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=serviceflow&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/serviceflow)
+[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=esportesdasorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportesdasorte)
+[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=ThiagoVenturaPortifolio&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/ThiagoVenturaPortifolio)
+[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=serviceflow&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/serviceflow)
 
 </div>
 
@@ -95,8 +95,8 @@ class ThiagoVentura:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVenturaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BD93F9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVenturaV&layout=compact&theme=tokyonight&border_color=BD93F9"/>
+  <img height="180em" src="https://github-stats.as93.net/api?username=ThiagoVenturaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BD93F9"/>
+  <img height="180em" src="https://github-stats.as93.net/api/top-langs/?username=ThiagoVenturaV&layout=compact&theme=tokyonight&border_color=BD93F9"/>
 </div>
 
 <br>
@@ -122,8 +122,6 @@ class ThiagoVentura:
     <img alt="snake animation" src="https://raw.githubusercontent.com/ThiagoVenturaV/ThiagoVenturaV/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<!-- > ⚠️ Para ativar a cobrinha, crie o workflow abaixo em `.github/workflows/snake.yml` no seu repositório de perfil.-->
 
 <details>
 <summary>📄 Ver workflow da cobrinha</summary>
