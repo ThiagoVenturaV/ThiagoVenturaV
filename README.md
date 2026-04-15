@@ -123,7 +123,7 @@ class ThiagoVentura:
   </picture>
 </div>
 
-> ⚠️ Para ativar a cobrinha, crie o workflow abaixo em `.github/workflows/snake.yml` no seu repositório de perfil.
+<!-- > ⚠️ Para ativar a cobrinha, crie o workflow abaixo em `.github/workflows/snake.yml` no seu repositório de perfil.-->
 
 <details>
 <summary>📄 Ver workflow da cobrinha</summary>
