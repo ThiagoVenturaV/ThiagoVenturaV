@@ -84,9 +84,9 @@ class ThiagoVentura:
 
 <div align="center">
 
-[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=esportesdasorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportesdasorte)
-[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=ThiagoVenturaPortifolio&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/ThiagoVenturaPortifolio)
-[![Readme Card](https://github-stats.as93.net/api/pin/?username=ThiagoVenturaV&repo=serviceflow&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/serviceflow)
+[![Readme Card](https://github-readme-stats-thiagoventurav.vercel.app/api/pin/?username=ThiagoVenturaV&repo=esportesdasorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportesdasorte)
+[![Readme Card](https://github-readme-stats-thiagoventurav.vercel.app/api/pin/?username=ThiagoVenturaV&repo=ThiagoVenturaPortifolio&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/ThiagoVenturaPortifolio)
+[![Readme Card](https://github-readme-stats-thiagoventurav.vercel.app/api/pin/?username=ThiagoVenturaV&repo=serviceflow&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/serviceflow)
 
 </div>
 
@@ -95,8 +95,8 @@ class ThiagoVentura:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats.as93.net/api?username=ThiagoVenturaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BD93F9"/>
-  <img height="180em" src="https://github-stats.as93.net/api/top-langs/?username=ThiagoVenturaV&layout=compact&theme=tokyonight&border_color=BD93F9"/>
+  <img height="180em" src="https://github-readme-stats-thiagoventurav.vercel.app/api?username=ThiagoVenturaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BD93F9"/>
+  <img height="180em" src="https://github-readme-stats-thiagoventurav.vercel.app/api/top-langs/?username=ThiagoVenturaV&layout=compact&theme=tokyonight&border_color=BD93F9"/>
 </div>
 
 <br>
