@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 ```python
 class ThiagoVentura:
@@ -36,13 +36,13 @@ class ThiagoVentura:
         return {
             "trabalhando_em": "Esportes da Sorte — análise esportiva com IA",
             "aprendendo"    : ["React", "FastAPI", "Cloud (AWS)", "LLMs"],
-            "curiosidade"   : "Se o código não funciona de primeira, ele tá testando sua paciência 😂"
+            "curiosidade"   : "Se o código não funciona de primeira, ele tá testando sua paciência kkk"
         }
 ```
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -80,7 +80,7 @@ class ThiagoVentura:
 
 ---
 
-### 🎯 Projetos em Destaque
+###  Projetos em Destaque
 
 <div align="center">
 
@@ -92,7 +92,7 @@ class ThiagoVentura:
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-thiagoventurav.vercel.app/api?username=ThiagoVenturaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=BD93F9"/>
@@ -113,7 +113,7 @@ class ThiagoVentura:
 
 ---
 
-### 🐍 Contribuições
+###  Contribuições
 
 <div align="center">
   <picture>
@@ -124,7 +124,7 @@ class ThiagoVentura:
 </div>
 
 <details>
-<summary>📄 Ver workflow da cobrinha</summary>
+<summary>📄 Ver workflow da cobrinha🐍</summary>
 
 ```yaml
 name: Generate Snake
@@ -160,7 +160,7 @@ jobs:
 
 ---
 
-### 🎥 Conteúdo no YouTube
+###  Conteúdo no YouTube
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Compartilho conhecimento sobre programação, carreira dev e muito mais!
 
 ---
 
-### 📱 Conecta Comigo!
+###  Conecta Comigo!
 
 <div align="center">
   <a href="https://instagram.com/th.dev1" target="_blank">
@@ -201,7 +201,7 @@ Compartilho conhecimento sobre programação, carreira dev e muito mais!
 
 <div align="center">
 
-### 💭 Frase do Dia
+###  Frase do Dia
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
