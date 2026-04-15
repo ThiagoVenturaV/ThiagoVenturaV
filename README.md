@@ -108,7 +108,7 @@ class ThiagoVentura:
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoVenturaV&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats-thiagoventurav.vercel.app/?username=ThiagoVenturaV&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
