@@ -84,9 +84,9 @@ class ThiagoVentura:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=esportes-da-sorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportes-da-sorte)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=PortfolioThiagoVentura&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/PortfolioThiagoVentura)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=numerosecreto&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/numerosecreto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=esportesdasorte&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/esportesdasorte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=ThiagoVenturaPortifolio&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/ThiagoVenturaPortifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoVenturaV&repo=serviceflow&theme=tokyonight&border_color=BD93F9)](https://github.com/ThiagoVenturaV/serviceflow)
 
 </div>
 
@@ -130,7 +130,6 @@ class ThiagoVentura:
 
 ```yaml
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -139,13 +138,18 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
