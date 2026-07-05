@@ -22,23 +22,19 @@
 
 ###  Sobre Mim
 
-```python
-class ThiagoVentura:
-    def __init__(self):
-        self.nome       = "Thiago Ventura (Th)"
-        self.curso      = "Análise e Desenvolvimento de Sistemas @ FICR"
-        self.cidade     = "Recife, PE 🦁"
-        self.foco       = ["Full Stack", "IA aplicada", "Open Source"]
-        self.youtube    = "@ThVenturaDev — descomplicando programação"
-        self.missao     = "Transformar café em código limpo ☕ → 💻"
+Olá! Sou o **Thiago Ventura**, desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas na FICR. Sou focado em desenvolvimento de software, inteligência artificial aplicada e na criação de projetos open source. 
 
-    def atualmente(self):
-        return {
-            "trabalhando_em": "Esportes da Sorte — análise esportiva com IA",
-            "aprendendo"    : ["React", "FastAPI", "Cloud (AWS)", "LLMs"],
-            "curiosidade"   : "Se o código não funciona de primeira, ele tá testando sua paciência kkk"
-        }
-```
+Também produzo conteúdo no canal **@ThVenturaDev** no YouTube, compartilhando conhecimento para descomplicar a programação para a comunidade de tecnologia.
+
+- **Localização:** Recife, PE, Brasil
+- **Focos principais:** Desenvolvimento Full Stack, Inteligência Artificial e projetos de código aberto
+- **Missão:** Desenvolver soluções eficientes através de código de qualidade e boas práticas de arquitetura.
+
+#### Atualmente
+- **Trabalho:** Atuação na Esportes da Sorte, trabalhando com análise esportiva orientada a Inteligência Artificial.
+- **Aprendizado:** Aprofundando estudos em React, FastAPI, computação em nuvem (AWS) e Grandes Modelos de Linguagem (LLMs).
+- **Fato curioso:** Se o código não funciona de primeira, encaro como um convite para entender melhor a lógica do fluxo do sistema.
+
 
 ---
 
