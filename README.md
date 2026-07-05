@@ -31,9 +31,10 @@ Também produzo conteúdo no canal **@ThVenturaDev** no YouTube, compartilhando 
 - **Missão:** Desenvolver soluções eficientes através de código de qualidade e boas práticas de arquitetura.
 
 #### Atualmente
-- **Trabalho:** Atuação na Esportes da Sorte, trabalhando com análise esportiva orientada a Inteligência Artificial.
+- **Foco principal:** Desenvolvendo projetos autorais e colaborando em código aberto, enquanto busco novas oportunidades como Desenvolvedor Full Stack.
 - **Aprendizado:** Aprofundando estudos em React, FastAPI, computação em nuvem (AWS) e Grandes Modelos de Linguagem (LLMs).
 - **Fato curioso:** Se o código não funciona de primeira, encaro como um convite para entender melhor a lógica do fluxo do sistema.
+
 
 
 ---
